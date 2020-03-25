@@ -1,0 +1,7 @@
+{
+  "type": "mongodb",
+  "url": "mongodb+srv://sa:sapassword@ocsen-ujacg.mongodb.net/nestjs_server?retryWrites=true",
+  "useNewUrlParser": true,
+  "entities": ["src/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
